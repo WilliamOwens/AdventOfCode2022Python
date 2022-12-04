@@ -47,4 +47,3 @@ if __name__ == "__main__":
     _input = readFile("input.txt")
     print(solution1(_input))
     print(solution2(_input))
-# okay so how cool is this??
