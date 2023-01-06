@@ -1,7 +1,4 @@
 import os
-from collections import deque
-import re
-
 
 def readFile(fileName):
   dir = os.path.abspath(os.path.dirname(__file__))
